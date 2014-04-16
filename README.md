@@ -1,6 +1,4 @@
-ionic-angular-cordova-seed
+dogegate-ui
 ==========================
 
-The perfect starting point for an Ionic project.
-
-- [Ionic Tutorials](http://ionicframework.com/tutorials/)
+this is the UI for the Ripple Dogecoin gateway
